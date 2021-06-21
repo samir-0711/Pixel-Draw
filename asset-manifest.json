@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pixel-Draw/static/css/main.25c6fc08.chunk.css",
+    "main.js": "/Pixel-Draw/static/js/main.604e7bc7.chunk.js",
+    "main.js.map": "/Pixel-Draw/static/js/main.604e7bc7.chunk.js.map",
+    "runtime-main.js": "/Pixel-Draw/static/js/runtime-main.0fc49bc7.js",
+    "runtime-main.js.map": "/Pixel-Draw/static/js/runtime-main.0fc49bc7.js.map",
+    "static/js/2.0fffa663.chunk.js": "/Pixel-Draw/static/js/2.0fffa663.chunk.js",
+    "static/js/2.0fffa663.chunk.js.map": "/Pixel-Draw/static/js/2.0fffa663.chunk.js.map",
+    "static/js/3.e1270920.chunk.js": "/Pixel-Draw/static/js/3.e1270920.chunk.js",
+    "static/js/3.e1270920.chunk.js.map": "/Pixel-Draw/static/js/3.e1270920.chunk.js.map",
+    "index.html": "/Pixel-Draw/index.html",
+    "static/css/main.25c6fc08.chunk.css.map": "/Pixel-Draw/static/css/main.25c6fc08.chunk.css.map",
+    "static/js/2.0fffa663.chunk.js.LICENSE.txt": "/Pixel-Draw/static/js/2.0fffa663.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fc49bc7.js",
+    "static/js/2.0fffa663.chunk.js",
+    "static/css/main.25c6fc08.chunk.css",
+    "static/js/main.604e7bc7.chunk.js"
+  ]
+}
